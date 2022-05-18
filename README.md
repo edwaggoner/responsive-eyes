@@ -1,4 +1,4 @@
-# Responsive Eyes
+# <img src='https://codetracklift.github.io/codeTrackLift/logos/mitxPro_logoStacked.jpg' alt='MIT xPro logo' width='30'> Responsive Eyes
 ## About
 This is a project that I developed in Week 8 of MIT xPro Bootcamp. MIT provided starter code for one eye.
 
