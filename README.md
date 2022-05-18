@@ -11,7 +11,7 @@ This is a project that I developed in Week 4 of MIT xPro Bootcamp. MIT provided 
 1. Add a second eye.
 2. Make both eyes follow the mouse position on the screen.
 
-## How to Run
+## How to Run <img src='https://github.com/edwaggoner/responsive-eyes/blob/main/moving-eyes1.png' alt='Moving Eyes logo' width='30'> 
 Move your mouse and see the eyes follow!
 
 ## Future Improvements
