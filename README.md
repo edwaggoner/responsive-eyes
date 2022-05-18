@@ -1,6 +1,7 @@
 # <img src='https://github.com/edwaggoner/responsive-eyes/blob/main/MIT%20xPRO%20vertical%20logo.png' alt='MIT xPro logo' width='30'> Responsive Eyes | *A Bootcamp Project*
+
 ## About
-This is a project that I developed in Week 8 of MIT xPro Bootcamp. MIT provided starter code for one eye.
+This is a project that I developed in Week 4 of MIT xPro Bootcamp. MIT provided starter code for one eye.
 
 >**Skills Highlighted**:
 1. Bind DOM elements to mouse events.
