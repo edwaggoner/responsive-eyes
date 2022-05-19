@@ -22,7 +22,7 @@ Move your mouse and see the eyes follow!
 
 ## License
 
-Copyright (c) 2022 Ed Waggoner
+Copyright © 2022 Ed Waggoner
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
