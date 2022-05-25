@@ -1,4 +1,4 @@
-# <img src='https://github.com/edwaggoner/responsive-eyes/blob/main/MIT%20xPRO%20vertical%20logo.png' alt='MIT xPro logo' width='30'> Responsive Eyes | *A Bootcamp Project*
+# <img src='https://github.com/edwaggoner/responsive-eyes/blob/main/MIT-xPRO-vertical-logo.png' alt='MIT xPro logo' width='30'> Responsive Eyes | *A Bootcamp Project*
 
 ## About
 This is a project that I developed in Week 4 of MIT xPro Bootcamp. MIT provided starter code for one eye.
@@ -22,7 +22,7 @@ Move your mouse and see the eyes follow!
 
 ## License
 
-Copyright (c) 2022 Ed Waggoner
+Copyright © 2022 Ed Waggoner
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
